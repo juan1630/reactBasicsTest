@@ -5,4 +5,8 @@
 
 - react testin library is better for test a react components 
 
+- we have to manage the two libraries
+    jest 
+    react-testing-library
+    
 - this project was crete with yarn

@@ -10,9 +10,9 @@ import { FirstApp } from './FirstApp'
 ReactDOM.createRoot(document.getElementById('root')).render(
     <React.StrictMode>
         <App/>
-        {/* <CustomComponent /> */}
+         <CustomComponent title="Hola, soy vegeta" />
         {/*<CounterApp value={20} /> */ }
-        <FirstApp />
+        {/*<FirstApp /> */}
     </React.StrictMode>
 );
 
