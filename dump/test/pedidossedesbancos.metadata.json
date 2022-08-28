@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"c40f2c54d81f417496d5cb48ed2ee041","collectionName":"pedidossedesbancos","type":"collection"}

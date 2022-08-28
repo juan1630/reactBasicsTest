@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"aa046e451199482589d81d4f4c01518b","collectionName":"productosalmacenstocks","type":"collection"}
